@@ -1,11 +1,11 @@
 """Absurd Micro-Startup Pitch-Off — make.fun entry.
 
-Entry text: 142 characters (limit 200).
+Entry text: 136 characters (limit 200).
 """
 
 import os
 
-ENTRY = "We sell a subscription that renames your AI agent's error logs into polite apologies, so your clients think the outage was a lifestyle choice."
+ENTRY = "We sell a subscription that rewrites your AI agent's error logs as polite apologies, so clients think the outage was a lifestyle choice."
 
 
 def main():

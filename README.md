@@ -6,7 +6,7 @@
 
 Bounty: https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571
 
-> We sell a subscription that renames your AI agent's error logs into polite apologies, so your clients think the outage was a lifestyle choice.
+> We sell a subscription that rewrites your AI agent's error logs as polite apologies, so clients think the outage was a lifestyle choice.
 
 ## Run
 
